@@ -55,7 +55,6 @@ I stay updated with the latest trends in data science and analytics by following
 
 I’m always open to discussing data, analytics, and potential collaboration opportunities! Feel free to reach out to me on:
 
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/naraharisetty-lahari-siva-prasad-a369a2335)
 - **Email**: nlsprasad@outlook.com
 
 ---
